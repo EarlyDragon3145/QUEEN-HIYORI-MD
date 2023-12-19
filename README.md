@@ -64,7 +64,7 @@
 
 ## Deploy On Heroku
 
-[Deploy on Heroku](https://heroku.deploy.queenanya.work.gd/)
+[Deploy on Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fbotskaking%2FQueen-Hiyori-MD&template=https%3A%2F%2Fgithub.com%2Fbotskaking%2FQueen-Hiyori-MD.git)
 
 ---
 
