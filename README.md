@@ -5,7 +5,7 @@
 <h1 align="center">𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘 𝞛𝘿 - MultiDevice</h1>
 
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Iron~Man;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Hiyori+MultiDevice;New+Plugin+Base+Modification;Developed+by+Iron~Man;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IRONMAN-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
