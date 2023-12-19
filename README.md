@@ -1,8 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
-
-<h1 align="center">𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘 𝞛𝘿 - MultiDevice</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=QUEEN+HIYORI+MD;Multi+Device;Whatsapp+Bot" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Hiyori+MultiDevice;New+Plugin+Base+Modification;Developed+by+Iron~Man;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
