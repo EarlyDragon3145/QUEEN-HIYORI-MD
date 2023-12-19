@@ -58,7 +58,7 @@
 
 ## Deploy On Replit
 
-[![Run on Repl.it](https://repl.it/badge/github/botskaking/Queen-Hiyori-MD)
+<a href="https://replit.com/github/botskaking/Queen-Hiyori-MD/">Replit</a>
 
 ---
 
