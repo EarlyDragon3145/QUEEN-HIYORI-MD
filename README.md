@@ -48,7 +48,8 @@
 <a href="https://anya-qr-teamolduser.koyeb.app/qrcode/">Scan Qr</a>
 
 ---
-
+## Fork Repo
+<a href="https://github.com/botskaking/Queen-Hiyori-MD/fork">FØŔK</a>
 ## Deploy On Railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
