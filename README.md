@@ -2,10 +2,10 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-<h1 align="center">Anya_v2 - MultiDevice</h1>
+<h1 align="center">𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘 𝞛𝘿 - MultiDevice</h1>
 
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Iron~Man;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 <p align="center">
@@ -36,9 +36,9 @@
 
 ## Tap Here For Help ⛩️
 
-- [Contact me on WhatsApp Messenger 🎐](https://wa.me/918811074852?text=Hello%20Pika~Kun%20sir...%20I%20need%20some%20help%20in%20Anya%20v2)
+- [Contact me on WhatsApp Messenger 🎐](https://wa.me/918279975767?text=Hello%20Iron~Man%20sir...%20I%20need%20some%20help%20in%20Queen%20Hiyori)
 
-- My email address: [alammdarif07@gmail.com](mailto:alammdarif07@gmail.com) 🎐
+- My email address: [ironmanhindigaming@gmail.com](mailto:ironmanhindigaming@gmail.com) 💞
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## Deploy On Replit
 
-[![Run on Repl.it](https://repl.it/badge/github/PikaBotz/Anya_v2-MD)](https://repl.it/github/PikaBotz/Anya_v2-MD)
+[![Run on Repl.it](https://repl.it/badge/github/botskaking/Queen-Hiyori-MD)
 
 ---
 
@@ -70,10 +70,11 @@
 1. This repository is not for sale or trade.
 2. Don't forget to give this repository a ⭐️ star.
 3. This script is not made for illegal purposes.
-4. If you have a problem, [contact me](https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲) for help.
+4. If you have a problem, [contact me](https://wa.me/918279975767?text=Hello%20*master%20Iron~Man*%20sir...%20I%20need%20some%20help%20in%20Queen%20Hiyori...%20🥲) for help.
 
 ---
 
 ## Thanks to ✨
 - [OldUser](https://github.com/Teamolduser) - ✅ For web and modules compatibility
 - [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ For a huge library
+- [PikaBotz](https://github.com/PikaBotz) - ✅ For Queen Anya V2 Base
