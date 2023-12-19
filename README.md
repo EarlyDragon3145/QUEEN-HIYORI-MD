@@ -44,7 +44,8 @@
 
 ## Scan QR Here
 
-<a href="https://anya-qr-teamolduser.koyeb.app/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" /> </a>
+<a href="https://https://replit.com/@PikaBot-Z/Anya-PairCode?v=1">Pair Code</a><br/>
+<href="https://anya-qr-teamolduser.koyeb.app/qrcode/">Scan Qr</a>
 
 ---
 
